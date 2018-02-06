@@ -1,5 +1,4 @@
-# ml
-#Machine Learning repsitory
+# Machine Learning repsitory
 
 The following is a set of projects aimed at either data aggregation and trend analysis or data modelling using classification
 models with Machince Learning. These projects are written in Python 2.7 using the ipython notebook for block by block execution
